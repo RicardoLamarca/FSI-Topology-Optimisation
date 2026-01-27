@@ -6,6 +6,11 @@
 
 A self-contained **Julia** script for performing **2D & 3D Topology Optimization** on structures immersed in Navier-Stokes fluid flow.
 
+<img width="854" height="308" alt="Captura de pantalla 2025-08-12 200657" src="https://github.com/user-attachments/assets/2acea24d-4674-4f71-bdbd-a2d65bbf4e26" />
+
+<img width="908" height="483" alt="Captura de pantalla 2025-12-26 204735" src="https://github.com/user-attachments/assets/78242433-c41a-4d80-b1de-d860e3209e1a" />
+
+
 This project utilizes the **Method of Moving Asymptotes (MMA)** to optimize the material distribution of a body, minimizing compliance (maximizing stiffness) under dynamic fluid-structure interaction loads.
 
 ---
