@@ -12,7 +12,7 @@ This project utilizes the **Method of Moving Asymptotes (MMA)** to optimize the 
 
 ## ✨ Key Features
 
-* **📦 Self-Contained Architecture:** All solver logic, Finite Element state maps, and optimization functionals are packed into a single file (`2DFSITOPOPT.jl`). No need to manage complex local packages.
+* **📦 Self-Contained Architecture:** All solver logic, Finite Element state maps, and optimization functionals are packed into a single file. No need to manage complex local packages.
 * **🪟 Zero-Config Windows Support:** Automatically detects Windows environments and pins `P4est_jll` to version 2.8.1 to prevent binary incompatibility crashes.
 * **⚡ Automated Dependency Setup:** First-run auto-installation of required packages (`Gridap`, `NLopt`, `WriteVTK`, etc.).
 * **💧 Dynamic Fluid Loads:** Computes Navier-Stokes fluid loads dynamically on the solid interface during the optimization loop.
